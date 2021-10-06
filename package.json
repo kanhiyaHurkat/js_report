@@ -1,0 +1,15 @@
+{
+  "name": "jsreport-server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "jsreport": "jsreport start"
+  },
+  "jsreport": {
+    "entryPoint": "server.js"
+  },
+  "dependencies": {
+    "html-to-xlsx": "^2.1.0",
+    "jsreport": "2.11.0"
+  }
+}
