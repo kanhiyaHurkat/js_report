@@ -1,0 +1,25 @@
+{
+    "_id": "615ee59ebfe1c70379116cef",
+    "shortid": "B1gfxleFPL",
+    "name": "main",
+    "recipe": "docx",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1633609387350
+    },
+    "modificationDate": {
+        "$$date": 1633609387350
+    },
+    "docx": {
+        "templateAssetShortid": "BylEXSGGOL"
+    },
+    "data": {
+        "shortid": "BkllFbeYvI"
+    },
+    "scripts": [],
+    "workspaceId": "615ee59ebfe1c7ea93116cee",
+    "$entitySet": "templates"
+}

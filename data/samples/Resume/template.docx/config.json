@@ -1,0 +1,14 @@
+{
+    "_id": "615ee59ebfe1c7ecb8116cf1",
+    "name": "template.docx",
+    "shortid": "BylEXSGGOL",
+    "creationDate": {
+        "$$date": 1633609387368
+    },
+    "modificationDate": {
+        "$$date": 1633609387368
+    },
+    "link": "",
+    "workspaceId": "615ee59ebfe1c7ea93116cee",
+    "$entitySet": "assets"
+}

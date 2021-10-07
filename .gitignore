@@ -1,4 +1,4 @@
-./.idea
+/.idea
 package-lock.json
-./logs
-./node_modules
+/logs
+/node_modules/

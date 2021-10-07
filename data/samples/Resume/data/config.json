@@ -1,0 +1,13 @@
+{
+    "_id": "615ee59ebfe1c7160e116cf0",
+    "shortid": "BkllFbeYvI",
+    "name": "data",
+    "creationDate": {
+        "$$date": 1633609387358
+    },
+    "modificationDate": {
+        "$$date": 1633609387358
+    },
+    "workspaceId": "615ee59ebfe1c7ea93116cee",
+    "$entitySet": "data"
+}
