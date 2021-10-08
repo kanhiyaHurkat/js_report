@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+  <title>User</title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css">
+</head>
+<body>
+<table class='table striped'>
+  <thead>
+  <tr>
+    <th>Student ID</th>
+    <th>Gender</th>
+    <th>Male</th>
+    <th>DOB</th>
+    <th>Phone No.</th>
+    <th>Email</th>
+    <th>Address</th>
+  </tr>
+  </thead>
+  <tbody>
+  {{#each users}}
+    <tr>
+      <td>{{studentID}}</td>
+      <td>{{gender}}</td>
+      <td>{{male}}</td>
+      <td>{{dob}}</td>
+      <td>{{phone}}</td>
+      <td>{{email}}</td>
+      <td>{{address}}</td>
+    </tr>
+  {{/each}}
+  </tbody>
+</table>
+</body>
+</html>

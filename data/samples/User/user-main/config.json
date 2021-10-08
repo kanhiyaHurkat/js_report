@@ -1,0 +1,27 @@
+{
+    "phantom": {
+        "waitForJS": true
+    },
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "scripts": [
+        {
+            "shortid": "JXMMXdYygK"
+        }
+    ],
+    "shortid": "5SY-K7zjnb",
+    "name": "user-main",
+    "chrome": {
+        "printBackground": true
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "creationDate": {
+        "$$date": 1633687334525
+    },
+    "modificationDate": {
+        "$$date": 1633693855554
+    },
+    "_id": "Jx5HVJ4BULQM4wJ0",
+    "$entitySet": "templates"
+}

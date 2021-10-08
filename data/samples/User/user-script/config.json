@@ -1,0 +1,14 @@
+{
+  "shortid": "JXMMXdYygK",
+  "name": "user-script",
+  "inheritedReadPermissions": [],
+  "inheritedEditPermissions": [],
+  "creationDate": {
+    "$$date": 1633687601235
+  },
+  "modificationDate": {
+    "$$date": 1633687601235
+  },
+  "_id": "kR3tBMayzqFHhw02",
+  "$entitySet": "scripts"
+}

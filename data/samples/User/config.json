@@ -1,0 +1,14 @@
+{
+  "name": "User",
+  "inheritedReadPermissions": [],
+  "inheritedEditPermissions": [],
+  "creationDate": {
+    "$$date": 1633682368892
+  },
+  "modificationDate": {
+    "$$date": 1633682368892
+  },
+  "shortid": "rwK9uDT",
+  "_id": "SgLC0RR3zdSEMz3k",
+  "$entitySet": "folders"
+}
