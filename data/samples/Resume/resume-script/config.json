@@ -1,0 +1,14 @@
+{
+  "shortid": "Kcz2bUaZvR",
+  "name": "resume-script",
+  "inheritedReadPermissions": [],
+  "inheritedEditPermissions": [],
+  "creationDate": {
+    "$$date": 1634019505722
+  },
+  "modificationDate": {
+    "$$date": 1634030483281
+  },
+  "_id": "S7rK0NOsncgRr1FL",
+  "$entitySet": "scripts"
+}
